@@ -96,8 +96,7 @@ I'd rather ship one thing I can fully defend than five I can't.
 
 <div align="center">
 
-<!-- TODO: replace YOUR-HANDLE with your LinkedIn handle, or delete this badge -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ocrela-5453ba258/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanocrela03@gmail.com)
 
 </div>
