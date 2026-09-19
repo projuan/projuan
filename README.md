@@ -2,6 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2d6a9f&height=180&section=header&text=Juan%20Ocrela&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=CS%20student%20·%20AI%20tools%20and%20backend&descSize=16&descAlignY=55" width="100%" alt="Juan Ocrela" />
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ocrela-5453ba258/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanocrela03@gmail.com)
+
 </div>
 
 ## About
@@ -81,14 +84,6 @@ around to see how far the distance is.
 
 I'd rather ship one thing I can fully defend than five I can't.
 
-## Stats
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=projuan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2d6a9f&icon_color=2d6a9f" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=projuan&layout=compact&hide_border=true&title_color=2d6a9f" alt="Top languages" />
-
-</div>
 
 ## Reach me
 
