@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2d6a9f&height=180&section=header&text=Juan%20Ocrela&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=CS%20student%20·%20AI%20tools%20and%20backend&descSize=16&descAlignY=55" width="100%" alt="Juan Ocrela" />
 
-[![Profile views](https://komarev.com/ghpvc/?username=projuan&color=2d6a9f&style=flat-square&label=profile+views)](https://github.com/projuan)
-
 </div>
 
 ## About
